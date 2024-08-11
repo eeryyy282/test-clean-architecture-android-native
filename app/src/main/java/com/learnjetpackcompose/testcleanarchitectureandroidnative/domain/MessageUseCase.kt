@@ -1,5 +1,5 @@
 package com.learnjetpackcompose.testcleanarchitectureandroidnative.domain
 
-interface MessageUserCase {
+interface MessageUseCase {
     fun getMessage(name: String): MessageEntity
 }
